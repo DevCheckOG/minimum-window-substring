@@ -3,4 +3,4 @@ Complicated problem in leetcode, categorized as hard.
 
 ### References
 
-https://leetcode.com/problems/merge-k-sorted-lists
+https://leetcode.com/problems/merge-k-sorted-lists/
